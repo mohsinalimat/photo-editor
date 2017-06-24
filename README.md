@@ -3,7 +3,7 @@
 ## Features
 - [x] Adding images -Stickers-
 - [x] Adding Text with colors
-- [x] Drawing wihtcolors
+- [x] Drawing with colors
 - [x] Scaling and rotating objects 
 - [x] Deleting objects 
 - [x] Saving to photos
